@@ -395,6 +395,10 @@ footer p {
 	   padding: 17px 10px;
 	}
 	
+.mainImages img {
+	filter: grayscale(0%);
+}
+	
 }
 
 
