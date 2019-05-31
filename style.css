@@ -515,6 +515,21 @@ footer p {
 		padding: 5px;
 	}
 	
+#name, #email {
+	width: 90%;
+	margin: 0 auto;
+	}
+
+#message {
+	width: 90%;
+	margin: 0 auto;
+	}
+
+#submit {
+	width: 90%;
+	margin: 0 auto;
+	
+}	
 	.divider {
 	  display: none;
 	}
