@@ -514,4 +514,12 @@ footer p {
 		display: block;
 		padding: 5px;
 	}
+	
+	.divider {
+	  display: none;
+	}
+	
+	.socialMedia {
+	   padding: 0 5%;
+	}
 }
